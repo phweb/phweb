@@ -1,8 +1,10 @@
 
+<img src="http://phweb.com.br/wp-content/uploads/2020/07/github.png" alt="PHWEB – Desenvolvedor" style="max-width:100%;" itemprop="phweb desenvolvedor">
 ##  Você Chegou ao seu Destino📍 Sou [Paulo Henrique](https://www.phweb.com.br) 👻 
 
-<img src="http://phweb.com.br/wp-content/uploads/2020/07/phweb-logo-2020.png" alt="PHWEB – Desenvolvedor" width="388" height="108" itemprop="logo">
-_Me siga_ nas minhas _redes sociais_, para ficar por dentro das novidades e _me_ conhecer um pouco mais.
+💻 Desenvolvedor Front-End,Pai de duas 👸🏼 Princesas, sempre buscando uma melhor versão.
+
+Me siga nas minhas redes sociais, para ficar por dentro das novidades e me conhecer um pouco mais.
 <br>
 <a href="https://twitter.com/_phweb">
   <img align="left" alt="PHWEB Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
