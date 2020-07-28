@@ -22,7 +22,6 @@ _Me siga_ nas minhas _redes sociais_, para ficar por dentro das novidades e _me_
 <a href="https://www.youtube.com/phweb53/">
   <img align="left" alt="PHWEB Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a><br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phweb&label=Visualizações&color=blue&style=plastic" alt="phweb" /> </p>
+<img src="https://komarev.com/ghpvc/?username=phweb&label=Visualizações&color=blue&style=plastic" alt="phweb" /> 
 
-<br/>
 
