@@ -2,8 +2,9 @@
 ##  Você Chegou ao seu Destino📍 Sou [Paulo Henrique](https://www.phweb.com.br) 👻 
 
 <img src="http://phweb.com.br/wp-content/uploads/2020/07/phweb-logo-2020.png" alt="PHWEB – Desenvolvedor" width="388" height="108" itemprop="logo">
-
+<br>
 _Me siga_ nas minhas _redes sociais_, para ficar por dentro das novidades e _me_ conhecer um pouco mais.
+<br>
 <a href="https://twitter.com/_phweb">
   <img align="left" alt="PHWEB Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
