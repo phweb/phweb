@@ -26,4 +26,4 @@ Me siga nas minhas redes sociais, para ficar por dentro das novidades e me conhe
 </a><br/>
 <img src="https://komarev.com/ghpvc/?username=phweb&label=Visualizações&color=blue&style=plastic" alt="phweb" /> 
 
-
+![Snake animation](https://github.com/phweb/phweb/github-contribution-grid-snake.svg)
