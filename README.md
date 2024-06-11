@@ -1,10 +1,6 @@
 
 
-##  Você Chegou ao seu Destino📍 Sou [Paulo Henrique] 👻 
-
-💻 Desenvolvedor Front-End,Pai de duas 👸🏼 Princesas, sempre buscando uma melhor versão.
-
-Me siga nas minhas redes sociais, para ficar por dentro das novidades e me conhecer um pouco mais.
+##  I'm Paulo from Brazil, and I've worked as a UI/UX front end application engineer for over 10 years in the web development market, I am here to share knowledge
 <br><br/>
 <a href="https://twitter.com/_phweb">
   <img align="left" alt="PHWEB Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
