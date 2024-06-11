@@ -20,6 +20,3 @@
 <a href="https://www.youtube.com/phweb53/">
   <img align="left" alt="PHWEB Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a><br/>
-<img src="https://komarev.com/ghpvc/?username=phweb&label=Visualizações&color=blue&style=plastic" alt="phweb" /> 
-
-![Snake animation](https://raw.githubusercontent.com/phweb/phweb/2698d20dabe6c1d176427dad713ae3e47831748b/github-contribution-grid-snake.svg)
